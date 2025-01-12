@@ -19,6 +19,16 @@ Welcome to my collection of data analysis projects! This repository showcases my
    - **Tech Stack**: Python, Pandas, Scikit-learn
    - **Key Concepts**: Collaborative Filtering, Recommendation Systems, Data Preprocessing, KNN, SVD 
 
+### 4. **PCA (Principal Component Analysis) Reduction**
+   - **Description**: This project applies PCA using Singular Value Decomposition (SVD) for dimensionality reduction on image data, improving data efficiency and pattern recognition.
+   - **Tech Stack**: Python, Numpy, Scikit-learn
+   - **Key Concepts**: PCA, Dimensionality Reduction, SVD
+
+### 5. **Black-and-White Circle Image Dataset and Least Squares Estimation**
+   - **Description**: This project involves creating a dataset consisting of black-and-white images of circles. The task is to estimate the radius and location of the ball based on the image using various Least Squares techniques.
+   - **Tech Stack**: Python, OpenCV, Numpy, Scipy
+   - **Key Concepts**: Image Processing, Least Squares Estimation, Computer Vision
+
 
 ## Contributing
 Feel free to fork the repository, open issues, and submit pull requests. Contributions are always welcome!
