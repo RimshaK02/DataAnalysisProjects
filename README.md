@@ -24,7 +24,7 @@ Welcome to my collection of data analysis projects! This repository showcases my
    - **Tech Stack**: Python, Numpy, Scikit-learn
    - **Key Concepts**: PCA, Dimensionality Reduction, SVD
 
-### 5. **Black-and-White Circle Image Dataset and Least Squares Estimation**
+### 5. **Least Squares Estimation on Dataset**
    - **Description**: This project involves creating a dataset consisting of black-and-white images of circles. The task is to estimate the radius and location of the ball based on the image using various Least Squares techniques.
    - **Tech Stack**: Python, OpenCV, Numpy, Scipy
    - **Key Concepts**: Image Processing, Least Squares Estimation, Computer Vision
